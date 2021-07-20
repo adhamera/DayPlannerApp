@@ -1,4 +1,4 @@
-//Global variables
+//These are the global variables
 let urlgeocoding;
 var marker;
 let map, infoWindow, userLat, userLon;
@@ -11,7 +11,7 @@ $("form").on("submit", function (e) {
   const state = $("#state-text").val();
   console.log(`${city} and ${state}`);
 
-  //Show weather, trails and map at destination
+  //This shows the weather, trails and map at destination
   $(document).ready(function () {
     urlgeocoding = `https://maps.googleapis.com/maps/api/geocode/json?address=${city}+${state}&key=AIzaSyCzGskOH17cENtd_IFBd9wLhSTfhC7vxls`;
     $.ajax({
