@@ -17,13 +17,3 @@ You will need an internet connection.
 ## Credits
 We used APIs from *Adenture Projects, Inc*, *Google*, and *Open Weather* 
 We used *Foundation* as our CSS database
-
-## Contributing
-### Front End Team
-*Anusha Dhamera*<br>
-*Nasra Hassan*<br>
-*Ryan Tervo*<br>
-### Back End Team
-*Jorge Calderon*<br>
-*Lierin Hanuman*<br>
-*Caroline Pukenis*<br>
