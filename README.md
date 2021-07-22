@@ -11,5 +11,5 @@ If all files are kept in a single folder a web browser should be able to run the
 You will need an internet connection.
 
 ## Credits
-We used APIs from *Adenture Projects, Inc*, *Google*, and *Open Weather* 
-We used *Foundation* as our CSS database
+I used APIs from *Adenture Projects, Inc*, *Google*, and *Open Weather* 
+I used *Foundation* as our CSS database
