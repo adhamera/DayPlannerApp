@@ -1,7 +1,7 @@
 
 # Day Planner App
 
-![Website Tutorial](https://github.com/adhamera/project-1/blob/master/assets/tutorial.gif?raw=true)
+![Website Tutorial](https://github.com/caropukenis/project-1/blob/master/assets/tutorial.gif?raw=true)
 
 ## Description
 This website if for people planning a day trip to get back into nature. They will recieve directions, hiking trail suggestions, and the weather for the day they were planning their trip. 
